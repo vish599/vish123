@@ -1,0 +1,15 @@
+.remo{
+    border-radius: 2px 2px 4px 4px;
+    border-bottom: 1px;
+    border-color: black;
+    
+}
+.r{
+    border-radius: 5px 5px 2px 2px black;
+    background-color: grey;
+    margin: 5px;
+    bottom: 20px;
+    height: 100px;
+    width: 50px;
+    
+}
